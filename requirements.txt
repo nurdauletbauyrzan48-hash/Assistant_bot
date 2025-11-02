@@ -1,0 +1,7 @@
+pytelegrambotapi
+python-docx
+pandas
+pillow
+pytesseract
+PyPDF2
+psutil
